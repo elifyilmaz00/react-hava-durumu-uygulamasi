@@ -1,4 +1,4 @@
-Vimport { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 
 // 'use' ile başlayan bir fonksiyon tanımlıyoruz.
 // Bu hook, hangi URL'den veri çekeceğini parametre olarak alacak.
